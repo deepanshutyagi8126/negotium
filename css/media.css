@@ -1,0 +1,730 @@
+@media(max-width:1199px) {
+    .paddingAll {
+        padding: 0px 40px;
+    }
+
+    .header .headerMiddle ul li {
+        margin-right: 40px;
+    }
+
+    .ourInner {
+        width: 110px;
+        height: 110px;
+    }
+
+    .footerRight ul li {
+        margin-right: 19px;
+    }
+
+    .banner {
+        background: url(../img/banner1.svg) no-repeat top right;
+        padding: 150px 0px 110px;
+    }
+
+    .businessChoose {
+        padding: 50px 0px;
+    }
+
+    .footerRight {
+        float: right;
+    }
+
+    .bussContent p:nth-child(2) {
+        padding: unset;
+        text-align: left;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .machineAll .col-sm-2 {
+
+        flex: 0 0 20.666667%;
+        max-width: 20.666667%;
+    }
+
+    .banner.banner2,
+    .banner.banner5,
+    .banner.banner4,
+     .banner.banner3,
+     .banner.banner5,
+    .banner.banner {
+        background-size: 72%;
+    }
+
+    .banner.banner4 {
+        background-size: 72%;
+        padding: 150px 0px 75px;
+    }
+    .banner.banner3 {
+    padding: 185px 0px 120px;
+}
+.banner.banner5 {
+    padding: 185px 0px 130px;
+}
+    .contactRight .form-group {
+        width: 100%;
+    }
+
+    .contactRight .form-group.phoneNumber {
+        width: 48%;
+    }
+
+    .contactRight .form-group.Postcode {
+        width: 48%;
+        margin-right: 13px;
+    }
+
+    .contactAll {
+        margin: 115px 0px 80px;
+    }
+
+    .message {
+        width: 65px;
+        height: 65px;
+        right: 38px;
+        bottom: 90px;
+    }
+
+    .messageContentAll {
+        height: 380px;
+        overflow-x: scroll;
+    }
+
+    .oinnerAll1 .oInnerAll p.subheading1,
+    .oinnerAll2 .oInnerAll p.subheading1,
+    .oinnerAll3 .oInnerAll p.subheading1,
+    .oinnerAll4 .oInnerAll p.subheading1 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+
+    .blogBanner {
+        padding: 150px 0px 130px;
+            margin-top: 87px;
+    }
+
+    .trendImg {
+        width: auto;
+    }
+
+    .trending .col-sm-6:first-child {
+        flex: 0 0 45%;
+        max-width: 45%;
+    }
+
+    .trending .col-sm-6:last-child {
+        flex: 0 0 55%;
+        max-width: 55%;
+        padding-left: 30px;
+    }
+
+    .treRightImg {
+        width: 30%;
+    }
+
+    .trendRightContent {
+        width: 65%;
+    }
+    .blogBanner.blogBanner2 {
+    padding: 215px 0px;
+}
+    .mainBoxs .col-sm-3{
+           flex: 0 0 50% ! important;
+    max-width: 50% ! important; 
+        margin-bottom: 30px;
+    }
+    .mainBoxs .col-sm-3:nth-child(2){
+        border: none;
+    }
+    .banner.banner2 {
+    padding: 185px 0px 140px;
+}
+}
+
+@media(max-width:991px) {
+    h2.mainheading {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .paddingAll {
+        padding: 0px 25px;
+    }
+
+    .header .headerLeft {
+        width: 30%;
+    }
+
+    .headerLeft a img {
+        width: 100%;
+        background-size: cover;
+    }
+
+    .header .headerMiddle ul li {
+        margin-right: 25px;
+    }
+
+    a.btns {
+        font-family: 'SanchezRegular';
+        font-size: 14px;
+    }
+
+    a.activeBtns {
+        padding: 10px 0px;
+        width: 120px;
+    }
+
+    .banner {
+        background-size: 70%;
+        padding: 150px 0px 75px;
+    }
+
+    h2.subheadNew {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .banner .col-sm-4 {
+        flex: 0 0 44.333333%;
+        max-width: 44.333333%;
+    }
+
+    .line1 {
+        width: 90px;
+    }
+
+    .line2 {
+        width: 45px;
+    }
+
+    .ourInner {
+        width: 100px;
+        height: 100px;
+    }
+
+    p.subheading {
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    .oInnerAll a {
+        font-size: 15px;
+    }
+
+    .businessChoose {
+        padding: 40px 0px;
+    }
+
+    .footerAll .col-sm-4 {
+        max-width: 15%;
+        flex: 0 0 15%;
+    }
+
+    .footerAll .col-sm-8 {
+        max-width: 85%;
+        flex: 0 0 85%;
+    }
+
+    .footer {
+        background: #f7f7f7;
+        padding: 22px 0px;
+    }
+
+    .cultureBox p {
+        padding-right: 0;
+    }
+
+    .cultureNego .col-sm-3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .negotiumService {
+        margin: 115px 0px 50px;
+    }
+
+    .cultureInner h3 {
+        padding: 17px 0px 45px;
+    }
+
+    .cultureBox {
+        margin-bottom: 20px;
+    }
+
+    .banner.banner2,
+    .banner.banner4,
+    .banner.banner5 {
+        background-size: 70%;
+    }
+
+    .contactLeft {
+        text-align: center;
+        float: unset;
+        padding-right: 0px;
+    }
+
+    .contactAll .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .contactImg {
+        margin-top: 10px;
+    }
+
+    .contactLeft ul {
+        float: unset;
+        margin-bottom: 25px;
+            margin-top: 15px;
+    }
+
+    .contactRight .form-group.phoneNumber {
+        width: 49%;
+    }
+
+    .message {
+        bottom: 70px;
+    }
+
+    .oinnerAll1 .ourInner.oInnerMain,
+    .oinnerAll2 .ourInner.oInnerMain,
+    .oinnerAll3 .ourInner.oInnerMain,
+    .oinnerAll4 .ourInner.oInnerMain {
+        width: 130px;
+        height: 130px;
+        background: #b9203b;
+    }
+
+    .oinnerAll1 .oInnerAll p.subheading1,
+    .oinnerAll2 .oInnerAll p.subheading1,
+    .oinnerAll3 .oInnerAll p.subheading1,
+    .oinnerAll4 .oInnerAll p.subheading1 {
+        font-size: 22px;
+        line-height: 40px;
+    }
+
+    .trending .col-sm-6:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .trending .col-sm-6:last-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+           padding: 0px 15px;
+    }
+
+    .blogBanner {
+        padding: 120px 0px 80px;
+        margin-top: 66px;
+    }
+
+    .blogBanner .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .blogBanner.blogBanner2 {
+    padding: 200px 0px;
+}
+    .needVitmain {
+    padding-top: 50px;
+}
+    .contactImg img {
+    width: 100%;
+}
+    .contactLeft ul{
+        padding-left: 0;
+    }
+    .banner.banner2 {
+    padding: 170px 0px 100px;
+}
+    .banner.banner3 {
+    padding: 165px 0px 100px;
+}
+    .banner.banner4 {
+
+    padding: 135px 0px 75px;
+}
+}
+
+@media(max-width:767px) {
+    .hamburger {
+        display: block;
+    }
+
+    .headerMiddle ul {
+        display: none;
+    }
+
+    .headRight {
+        padding-right: 50px;
+    }
+
+    .header,
+    .fixedHeader {
+        padding: 8px 0px;
+    }
+
+    h2.mainheading {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .banner .col-sm-4 {
+        flex: 0 0 52.333333%;
+        max-width: 52.333333%;
+    }
+
+    .banner {
+        padding: 150px 0px 50px;
+    }
+
+    .allPoint .col-sm-3 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+    p.subheading {
+        font-size: 17px;
+        line-height: 40px;
+    }
+
+    h2.subheadNew {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .allPoint {
+        padding: 45px 0px 30px;
+    }
+
+    .footerAll .col-sm-4 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .footerAll .col-sm-8 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .footerRight ul li {
+        margin-right: 10px;
+    }
+
+    .footerRight {
+        margin-top: 10px;
+        float: unset;
+    }
+
+    .negotiumService {
+        margin: 115px 0px 30px;
+    }
+
+    h2.subheading {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .negotiumRight {
+
+        margin-top: 10px;
+    }
+
+    .machineAll .col-sm-2 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .machInnAll {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .machineAll {
+        padding-bottom: 50px;
+    }
+
+    .machineAll.machineAll2 .col-sm-3,
+    .machineAll.machineAll2 .col-sm-2 {
+        flex: 0 0 50%;
+        max-width: 50%;
+        width: 50%
+    }
+
+    .machineAll.machineAll2 {
+        padding-bottom: 90px;
+    }
+
+    .machineAll .col-sm-3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+        width: 50%;
+    }
+
+    .contactRight .form-group.phoneNumber {
+        width: 48%;
+    }
+
+    .oinnerAll1 .ourInner.oInnerMain,
+    .oinnerAll2 .ourInner.oInnerMain,
+    .oinnerAll3 .ourInner.oInnerMain,
+    .oinnerAll4 .ourInner.oInnerMain {
+        width: 110px;
+        height: 110px;
+    }
+
+    .oinnerAll1 .oInnerAll p.subheading1,
+    .oinnerAll2 .oInnerAll p.subheading1,
+    .oinnerAll3 .oInnerAll p.subheading1,
+    .oinnerAll4 .oInnerAll p.subheading1 {
+        font-size: 17px;
+        line-height: 40px;
+    }
+    .blogBanner {
+    padding: 80px 0px 80px;
+            margin-top: 63px;
+}
+    .trendingLeft h2 {
+    font-size: 35px;
+    line-height: 38px;
+}
+    .blogBanner.blogBanner2 {
+    padding: 175px 0px;
+}
+    .needVitmain {
+    padding-top: 40px;
+}
+    .banner.banner2 {
+    padding: 125px 0px 90px;
+}
+    .banner.banner3 {
+    padding: 165px 0px 85px;
+}
+    .banner.banner5 {
+    padding: 150px 0px 90px;
+}
+}
+
+@media(max-width:560px) {
+    .header .headerLeft {
+        width: 40%;
+    }
+
+    .sidenav {
+        width: 220px;
+    }
+
+    .banner .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .allPoint .col-sm-3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .oInnerAll {
+        margin-bottom: 20px;
+    }
+
+    .allPoint {
+        padding: 40px 0px 20px;
+    }
+
+    .businessChoose {
+        padding: 30px 0px;
+    }
+
+    .footerRight ul li {
+        display: block;
+        margin-top: 15px;
+    }
+
+    h2.subheading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .negotiumService {
+        margin: 100px 0px 30px;
+    }
+
+    .cultureNego .col-sm-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .machineAll.machineAll2 {
+        padding-bottom: 40px;
+    }
+
+    .contactRight .form-group.Postcode {
+        width: 100%;
+    }
+
+    .contactRight .form-group.phoneNumber {
+        width: 100%;
+    }
+
+    .contactRadio .radio {
+        display: block;
+    }
+
+    .message {
+        bottom: 35px;
+    }
+    .treRightImg {
+    width: 50%;
+    margin-bottom: 20px;
+}
+    .trendRightContent {
+    width: 100%;
+}
+    .blogBanner{
+        padding: 50px 0px;
+        margin-top: 61px;
+    }
+    .blogInner h2{
+        font-size: 23px;
+    }
+    .blogBanner.blogBanner2 {
+    padding: 150px 0px;
+}
+    .contactLeft ul li:nth-child(2) {
+    padding: 0px 15px;
+}
+    .banner.banner3 {
+    padding: 135px 0px 85px;
+    background: none;
+}
+    .banner.banner3 {
+    padding: 115px 0px 70px;
+}
+.banner.banner5 {
+    background: none;
+    padding: 135px 0px 70px;
+}
+    .banner.banner2{
+        background: none;
+    }
+    .banner.banner4{
+        background: none;
+    }
+    .banner{
+        background: none;
+    }
+}
+
+@media(max-width:414px) {
+    .paddingAll {
+        padding: 0px 15px;
+    }
+
+    a.activeBtns {
+        padding: 5px 0px;
+        width: 92px;
+        font-size: 12px;
+        letter-spacing: inherit;
+    }
+
+    .hamburger {
+        top: 15px;
+    }
+
+    .banner .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .machineAll {
+        padding-bottom: 40px;
+    }
+
+    .contactAll {
+        margin: 80px 0px 100px;
+    }
+
+    .messageFooter .form-group {
+        width: 224px;
+    }
+
+    .messageOpen {
+        width: 300px;
+    }
+    .messageDown{
+        width: 300px;
+    }
+
+    .footerBtn button b {
+        display: none;
+    }
+
+    .footerBtn button span {
+        padding-left: 0px;
+    }
+
+    .oinnerAll1 .ourInner.oInnerMain,
+    .oinnerAll2 .ourInner.oInnerMain,
+    .oinnerAll3 .ourInner.oInnerMain,
+    .oinnerAll4 .ourInner.oInnerMain {
+        width: 130px;
+        height: 130px;
+    }
+
+    .oinnerAll1 .oInnerAll p.subheading1,
+    .oinnerAll2 .oInnerAll p.subheading1,
+    .oinnerAll3 .oInnerAll p.subheading1,
+    .oinnerAll4 .oInnerAll p.subheading1 {
+        font-size: 20px;
+        line-height: 50px;
+    }
+    .blogBanner.blogBanner2 {
+    padding: 120px 0px;
+}
+    .blogBanner {
+    margin-top: 52px;
+        padding: 30px 0px;
+}
+    .blogInner p {
+    padding: 10px 0px;
+}
+    .blogInner h2 {
+    font-size: 18px;
+}
+        .blogInner p {
+    font-size: 14px;
+                line-height: 20px;
+}
+    .needVitmain {
+    padding-top: 30px;
+}
+    .mainBoxs .col-sm-3 {
+    flex: 0 0 100% ! important;
+    max-width: 100% ! important;
+        border: none;
+    margin-bottom: 10px;   
+}
+        .banner.banner5 {
+    padding: 125px 0px 70px;
+}
+    .machineAll.machineAll2 {
+    padding-bottom: 30px;
+}
+    .banner.banner3 {
+    padding: 125px 0px 70px;
+}
+    .banner.banner4 {
+    padding: 125px 0px 70px;
+}
+    .banner {
+    padding: 125px 0px 50px;
+}
+}

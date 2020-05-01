@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.927" height="41.182" viewBox="0 0 43.927 41.182">
+    <defs>
+        <style>
+            .cls-1{fill:#ffffff}
+        </style>
+    </defs>
+    <g id="files-and-folders" transform="translate(0 -16)">
+        <g id="Group_2466" data-name="Group 2466" transform="translate(0 16)">
+            <g id="Group_2465" data-name="Group 2465">
+                <path id="Path_7288" d="M41.182 24.236h-2.746v-2.745a2.745 2.745 0 0 0-2.745-2.745H21.964v-1.373A1.373 1.373 0 0 0 20.591 16H1.373A1.373 1.373 0 0 0 0 17.373v37.063a2.745 2.745 0 0 0 2.745 2.745h23.337v-2.745H2.745V18.745h16.473v5.491H6.864v2.745h34.318v12.355h2.745V26.982a2.745 2.745 0 0 0-2.745-2.746zm-5.491 0H21.964v-2.745h13.727z" class="cls-1" data-name="Path 7288" transform="translate(0 -16)"/>
+                <path id="Path_7289" d="M313.879 333.434l-3.143-3.144-1.936 1.936 4.118 4.118a1.373 1.373 0 0 0 1.936 0l9.609-9.609-1.936-1.936z" class="cls-1" data-name="Path 7289" transform="translate(-282.306 -298.306)"/>
+            </g>
+        </g>
+    </g>
+</svg>
